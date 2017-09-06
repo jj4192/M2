@@ -25,13 +25,13 @@ public class Person1 {
 	 * 2 positions.
 	 * given "gtg123b" it should return
 	 * "g123bgt".
-	 *
+	 *iw
 	 * @param input the string to be modified
 	 * @return the modified string
 	 */
 	private String calc(String input) {
 	  //Person 1 put your implementation here
-	  return null;
+	  return "Hi";
 	}
 	
 	/**
