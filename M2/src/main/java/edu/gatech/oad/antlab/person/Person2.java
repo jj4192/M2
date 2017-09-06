@@ -1,5 +1,5 @@
 package edu.gatech.oad.antlab.person;
-import java.util.collections.*;
+import java.util.Collections;
 
 /**
  *  A simple class for person 2
