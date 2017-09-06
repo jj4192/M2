@@ -32,7 +32,7 @@ public class Person2 {
      */
     private String calc(String input) {
       //Person 2 put your implementation here
-      return Collections.shuffle(input);
+      return Collections.shuffle(input.toCharArray());
     }
     /**
      * Return a string rep of this object
