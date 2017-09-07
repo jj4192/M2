@@ -40,12 +40,11 @@ public class Person2 {
       for (char current : characterArray)
       	characterList.add(current);
       Collections.shuffle(characterList);
-
       StringBuilder builder = new StringBuilder(characterList.size());
       for(Character ch : characterList)
-    {
+      {
         builder.append(ch);
-    }
+      }
     return builder.toString();
       // return Collections.shuffle(input.toCharArray());
       // return "Fix needed";
